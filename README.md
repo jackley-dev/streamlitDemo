@@ -6,6 +6,10 @@
 - 修复了客户端在提交时会重复显示文本框和提交按钮的问题
 - 调整了页面图标、人物图标、页面标题等内容
 
+# 使用方法
+- 安装streamlit、streamlit_chat库
+- 在文件所在目录下，运行：streamlit run app.py
+
 # 实现逻辑介绍
 - 前端页面元素采用streamlit框架生成
 - 使用streamlit_chat库来呈现对话内容，通过制定对话者的身份，可以自动的将user内容靠右展示，ai内容靠左展示
