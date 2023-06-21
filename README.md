@@ -7,6 +7,7 @@
 - 调整了页面图标、人物图标、页面标题等内容
 
 # 使用方法
+- 配置.env文件中的openai key
 - 安装streamlit、streamlit_chat库
 - 在文件所在目录下，运行：streamlit run app.py
 
