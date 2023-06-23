@@ -1,5 +1,5 @@
 # 项目简介
-- 旨在实现一个基于streamlit的最简版的chatbot web客户端
+- 旨在实现一个基于streamlit和chatgpt的最简版的chatbot web客户端
 - 参考项目：https://github.com/marshmellow77/streamlit-chatgpt-ui
 
 # 迭代内容
